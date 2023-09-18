@@ -1,3 +1,4 @@
+# de 1 mon ngon ngu lap trinh Python
 class tugiac():
     def __init__(self,a,b,c,d):
         self.a = a
