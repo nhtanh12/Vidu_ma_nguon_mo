@@ -8,6 +8,7 @@ try:
     print('thuong = ',a/b)
 except:
     print(' du lieu nhap khong dung')
+    print("abc")
 finally:
     print('ket thuc chuong trinh!')
 
